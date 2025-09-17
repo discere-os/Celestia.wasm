@@ -1,6 +1,12 @@
-| **`Release`** | **`Localized`** | **`License`** | **`Contribute`** |
-|-------------------|---------------|---------------|---------------|
-|[![GitHub release](https://img.shields.io/github/v/release/CelestiaProject/Celestia?label=Release)](https://celestiaproject.space/download.html) | [![Localization](https://img.shields.io/badge/Localized-85%25-green.svg)](#) | [![License](https://img.shields.io/github/license/CelestiaProject/Celestia?label=License)](https://github.com/CelestiaProject/Celestia/blob/master/COPYING) | [![Contribute](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](#contributing) |
+# @discere-os/celestia.wasm
+
+WebAssembly port of Celestia - A real-time space simulation that lets you experience our universe in three dimensions.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/celestia-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/celestia.wasm)](https://jsr.io/@discere-os/celestia.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Fcelestia.wasm.svg)](https://badge.fury.io/js/@discere-os%2Fcelestia.wasm)
+[![License](https://img.shields.io/badge/License-GPL--2.0+-blue.svg)](https://github.com/CelestiaProject/Celestia/blob/master/COPYING)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
 
 # Celestia
 ![Celestia](celestia-logo.png)<br>
